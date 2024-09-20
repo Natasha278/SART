@@ -1,0 +1,10 @@
+Week 1: Natasha
+principal page 
+
+Week 2: Luis
+
+Inside landing page: create new pages for the rest of the links: Data Sign-in, Contact-us   ---> Add more if u want 
+
+export default function NAME() {
+  return (<div>.......<div/>);
+}
